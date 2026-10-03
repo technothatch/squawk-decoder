@@ -1,0 +1,386 @@
+icao,name,category,manufacturer
+A10,Aero Commander 500,GA,Rockwell Commander
+A11,Aero Commander 680,GA,Rockwell Commander
+A20,Ag Cat,Agricultural,Grumman
+A22,Tiger Moth,Antonov/De Havilland,De Havilland
+A23,Piper PA-18 Super Cub,GA,Piper
+A26,Ag Carryall,Agricultural,Piper
+A28,Aero Commander,Aerospace Commander,None
+A300,Airbus A300,Jet,Airbus
+A306,Airbus A300-600,Jet,Airbus
+A310,Airbus A310,Jet,Airbus
+A318,Airbus A318,Jet,Airbus
+A319,Airbus A319,Jet,Airbus
+A31N,Airbus A319neo,Jet,Airbus
+A320,Airbus A320,Jet,Airbus
+A321,Airbus A321,Jet,Airbus
+A32N,Airbus A321neo,Jet,Airbus
+A332,Airbus A330-200,Jet,Airbus
+A333,Airbus A330-300,Jet,Airbus
+A339,Airbus A330-900neo,Jet,Airbus
+A342,Airbus A340-200,Jet,Airbus
+A343,Airbus A340-300,Jet,Airbus
+A346,Airbus A340-600,Jet,Airbus
+A35,Aztec,Aircraft,Piper
+A359,Airbus A350-900,Jet,Airbus
+A35K,Airbus A350-1000,Jet,Airbus
+A388,Airbus A380-800,Jet,Airbus
+A3ST,Airbus A300-600ST Beluga,Transport,Airbus
+A60,Aero Commander,Aerospace Commander,None
+A70,Twin Commander,Aerospace Commander,None
+A706,Boeing 707 (military),Jet,Boeing
+A99,Aerospatiale SN 601 Corvette,GA,Aerospatiale
+AJ1,Aero Commander 200,GA,Rockwell
+AS32,Airbus AS332 Super Puma,Helicopter,Airbus Helicopters
+AS332,AS332 Super Puma,Helicopter,Airbus Helicopters
+AT43,ATR 42-300,Regional,ATR
+AT44,ATR 42-400,Regional,ATR
+AT45,ATR 42-500,Regional,ATR
+AT72,ATR 72,Regional,ATR
+AT76,ATR 72-600,Regional,ATR
+B38M,Boeing 737 MAX 8,Jet,Boeing
+B39M,Boeing 737 MAX 9,Jet,Boeing
+B3XM,Boeing 737 MAX 10,Jet,Boeing
+B47J,Boeing C-17 Globemaster III,Transport,Boeing
+B707,Boeing 707,Jet,Boeing
+B720,Boeing 720,Jet,Boeing
+B721,Boeing 737-100,Jet,Boeing
+B722,Boeing 737-200,Jet,Boeing
+B732,Boeing 737-200 Advanced,Jet,Boeing
+B733,Boeing 737-300,Jet,Boeing
+B734,Boeing 737-400,Jet,Boeing
+B735,Boeing 737-500,Jet,Boeing
+B736,Boeing 737-600,Jet,Boeing
+B737,Boeing 737-700,Jet,Boeing
+B738,Boeing 737-800,Jet,Boeing
+B739,Boeing 737-900,Jet,Boeing
+B741,Boeing 747-100,Jet,Boeing
+B742,Boeing 747-200,Jet,Boeing
+B743,Boeing 747-300,Jet,Boeing
+B744,Boeing 747-400,Jet,Boeing
+B748,Boeing 747-8,Jet,Boeing
+B74F,Boeing 747 Freighter,Transport,Boeing
+B74R,Boeing 747-400F,Transport,Boeing
+B752,Boeing 757-200,Jet,Boeing
+B753,Boeing 757-300,Jet,Boeing
+B75F,Boeing 757-200F,Transport,Boeing
+B762,Boeing 767-200,Jet,Boeing
+B763,Boeing 767-300,Jet,Boeing
+B764,Boeing 767-400,Jet,Boeing
+B76F,Boeing 767 Freighter,Transport,Boeing
+B772,Boeing 777-200,Jet,Boeing
+B773,Boeing 777-300,Jet,Boeing
+B77F,Boeing 777 Freighter,Transport,Boeing
+B77L,Boeing 777-200LR,Jet,Boeing
+B77W,Boeing 777-300ER,Jet,Boeing
+B787,Boeing 787-8 Dreamliner,Jet,Boeing
+B788,Boeing 787-8 Dreamliner,Jet,Boeing
+B789,Boeing 787-9 Dreamliner,Jet,Boeing
+B78X,Boeing 787-10 Dreamliner,Jet,Boeing
+BCS1,Airbus A220-100,Jet,Airbus
+BCS3,Airbus A220-300,Jet,Airbus
+BE20,Beechcraft 200 King Air,GA,Beechcraft
+BE23,Beechcraft 23 Musketeer,GA,Beechcraft
+BE24,Beechcraft 24 Duke,GA,Beechcraft
+BE30,Beechcraft 300 King Air,GA,Beechcraft
+BE32,Beechcraft 300 Twin Bonanza,GA,Beechcraft
+BE33,Beechcraft 33 Bonanza,GA,Beechcraft
+BE35,Beechcraft 35 Bonanza,GA,Beechcraft
+BE36,Beechcraft 36 Bonanza,GA,Beechcraft
+BE40,Beechcraft 400 Beechjet,Business jet,Hawker Beechcraft
+BE45,Beechcraft 450 Baron,GA,Beechcraft
+BE50,Beechcraft 50 Twin Bonanza,GA,Beechcraft
+BE55,Beechcraft 55 Baron,GA,Beechcraft
+BE56,Beechcraft 56 Baron,GA,Beechcraft
+BE58,Beechcraft 58 Baron,GA,Beechcraft
+BE60,Beechcraft 60 Duke,GA,Beechcraft
+BE65,Beechcraft 65 King Air,GA,Beechcraft
+BE76,Beechcraft 76 Duchess,GA,Beechcraft
+BE77,Beechcraft 77 Skipper,GA,Beechcraft
+BE80,Beechcraft 80 Queen Air,GA,Beechcraft
+BE88,Beechcraft 88 Queen Air,GA,Beechcraft
+BE90,Beechcraft 90 King Air,GA,Beechcraft
+BE99,Beechcraft 99,GA,Beechcraft
+BE9L,Beechcraft 1900C,GA,Beechcraft
+BEE,Beechcraft 1900,Airliner,Beechcraft
+BN2P,Britten-Norman BN-2 Islander,GA,Britten-Norman
+BROU,Broussard,GA,Max Holste
+BS2P,Britten-Norman BN-2 Defender,GA,Britten-Norman
+BU31,Buckaroo,GA,Bede
+C01T,Cessna 101 Titan,GA,Cessna
+C02T,Cessna 202 Super Skylane,GA,Cessna
+C06X,Cessna 620 Citation,Jet,Cessna
+C07T,Cessna 307 Skywagon,GA,Cessna
+C08T,Cessna 308 Skymaster,GA,Cessna
+C108,Cessna 108,GA,Cessna
+C128,Cessna 128,GA,Cessna
+C130,Cessna 130,GA,Cessna
+C140,Cessna 140,GA,Cessna
+C141,Lockheed C-141 Starlifter,Transport,Lockheed
+C142,Cessna 142,GA,Cessna
+C150,Cessna 150,GA,Cessna
+C152,Cessna 152,GA,Cessna
+C170,Cessna 170,GA,Cessna
+C172,Cessna 172 Skyhawk,GA,Cessna
+C177,Cessna 177 Cardinal,GA,Cessna
+C180,Cessna 180 Skywagon,GA,Cessna
+C182,Cessna 182 Skylane,GA,Cessna
+C185,Cessna 185 Skywagon,GA,Cessna
+C188,Cessna 188 Agwagon,Agricultural,Cessna
+C190,Cessna 190,GA,Cessna
+C195,Cessna 195,GA,Cessna
+C206,Cessna 206 Stationair,GA,Cessna
+C207,Cessna 207 Stationair,GA,Cessna
+C208,Cessna 208 Caravan,Utility,Cessna
+C210,Cessna 210 Centurion,GA,Cessna
+C240,Cessna 240,GA,Cessna
+C25A,Cessna Citation CJ4,Business jet,Cessna
+C25B,Cessna Citation CJ3,Business jet,Cessna
+C25C,Cessna Citation CJ2,Business jet,Cessna
+C25M,Cessna Citation M2,Business jet,Cessna
+C298,Cessna 298,GA,Cessna
+C303,Cessna 303,GA,Cessna
+C310,Cessna 310,GA,Cessna
+C320,Cessna 320,GA,Cessna
+C32A,Boeing 757 (military),Jet,Boeing
+C335,Cessna 335,GA,Cessna
+C336,Cessna 336 Skymaster,GA,Cessna
+C337,Cessna 337 Skymaster,GA,Cessna
+C340,Cessna 340,GA,Cessna
+C350,Cessna 350 Corvalis,GA,Cessna
+C401,Cessna 401,GA,Cessna
+C402,Cessna 402,GA,Cessna
+C404,Cessna 404 Titan,GA,Cessna
+C40B,Boeing 737 (military),Jet,Boeing
+C411,Cessna 411,GA,Cessna
+C414,Cessna 414 Chancellor,GA,Cessna
+C421,Cessna 421 Golden Eagle,GA,Cessna
+C425,Cessna 425,GA,Cessna
+C441,Cessna 441 Conquest II,GA,Cessna
+C500,Cessna Citation I,Business jet,Cessna
+C501,Cessna Citation I,Jet,Cessna
+C510,Cessna Citation Mustang,Business jet,Cessna
+C525,Cessna Citation CJ1,Business jet,Cessna
+C526,Cessna Citation ULTRA,Jet,Cessna
+C550,Cessna Citation II,Business jet,Cessna
+C551,Cessna Citation II,Jet,Cessna
+C560,Cessna Citation V,Jet,Cessna
+C561,Cessna Citation Encore,Jet,Cessna
+C56X,Cessna Citation Excel,Business jet,Cessna
+C5XX,Cessna Citation 680 Sovereign,Business jet,Cessna
+C650,Cessna Citation III,Business jet,Cessna
+C680,Cessna Citation Sovereign,Business jet,Cessna
+C68A,Cessna Citation Latitude,Business jet,Cessna
+C700,Cessna Citation Longitude,Business jet,Cessna
+C750,Cessna Citation X,Business jet,Cessna
+C82B,Cessna 208B Grand Caravan,Utility,Cessna
+CE22,Cessna 22 Centurion,GA,Cessna
+CL30,Canadair Challenger 300,Business jet,Bombardier
+CL60,Canadair Challenger 600,Business jet,Bombardier
+CL65,Canadair Challenger 605,Business jet,Bombardier
+CRJ2,Bombardier CRJ200,Regional,Bombardier
+CRJ7,Bombardier CRJ700,Regional,Bombardier
+CRJ9,Bombardier CRJ900,Regional,Bombardier
+CRJX,Bombardier CRJ1000,Regional,Bombardier
+DC3,Douglas C-47 Skytrain,Propeller,Douglas
+DH2A,De Havilland DH.106 Comet,Jet,De Havilland
+DH2C,De Havilland DH.106 Comet 4C,Jet,De Havilland
+DH8A,De Havilland DHC-8-100 Dash 8,Regional,De Havilland Canada
+DH8B,De Havilland DHC-8-200 Dash 8,Regional,De Havilland Canada
+DH8C,De Havilland DHC-8-300 Dash 8,Regional,De Havilland Canada
+DH8D,De Havilland DHC-8-400 Dash 8,Regional,De Havilland Canada
+DH8T,De Havilland DHC-8-500 Dash 8,Regional,De Havilland Canada
+DH8X,De Havilland DHC-8-Q400,Regional,De Havilland Canada
+DHC2,De Havilland DHC-2 Beaver,GA,De Havilland Canada
+DHC3,De Havilland DHC-3 Otter,GA,De Havilland Canada
+DHC4,De Havilland DHC-4 Caribou,Transport,De Havilland Canada
+DHC6,De Havilland DHC-6 Twin Otter,Utility,De Havilland Canada
+DHC7,De Havilland DHC-7 Dash 7,Regional,De Havilland Canada
+DJ1,Douglas DJ-2,Jet,Douglas
+DR40,DR-400,GA,Robin
+E135,Embraer ERJ 135,Airliner,Embraer
+E145,Embraer ERJ 145,Airliner,Embraer
+E170,Embraer 170,Airliner,Embraer
+E175,Embraer 175,Airliner,Embraer
+E190,Embraer 190,Airliner,Embraer
+E195,Embraer 195,Airliner,Embraer
+E290,Embraer E190-E2,Airliner,Embraer
+E295,Embraer E195-E2,Airliner,Embraer
+E3CF,Boeing E-3 Sentry,Airliner,Boeing
+E45X,Embraer Legacy 600,Business jet,Embraer
+E50P,Embraer Phenom 100,Business jet,Embraer
+E55P,Embraer Phenom 300,Business jet,Embraer
+E75L,Embraer 175 (Long),Airliner,Embraer
+E75S,Embraer 175 (Short),Airliner,Embraer
+F2T2,Dassault Falcon 2000,Business jet,Dassault
+F2TH,Dassault Falcon 20,Business jet,Dassault
+F50,Dassault Falcon 50,Business jet,Dassault
+F7X,Dassault Falcon 7X,Business jet,Dassault
+F90,Dassault Falcon 900,Business jet,Dassault
+FA50,Dassault Falcon 50,Business jet,Dassault
+FA6X,Dassault Falcon 6X,Business jet,Dassault
+FA7X,Dassault Falcon 7X,Business jet,Dassault
+FA8X,Dassault Falcon 8X,Business jet,Dassault
+FALC,Dassault Falcon 2000,Business jet,Dassault
+FC1,Falcon 10,Business jet,Dassault
+FJ12,Falcon 10,Business jet,Dassault
+FJ22,Falcon 20,Business jet,Dassault
+FJ30,Falcon 30,Business jet,Dassault
+FP5T,Pilatus PC-6 Porter,Utility,Pilatus
+G115,Grob G 115,GA,Grob
+G159,Gulfstream G159,Airliner,Gulfstream
+G280,Gulfstream G280,Business jet,Gulfstream
+GA7C,Gulfstream GA7 Cheetah,GA,Gulfstream
+GALX,Gulfstream G450,Business jet,Gulfstream
+GLF4,Gulfstream IV,Business jet,Gulfstream
+GLF5,Gulfstream V,Business jet,Gulfstream
+GLF6,Gulfstream G650,Business jet,Gulfstream
+GLF7,Gulfstream G700,Business jet,Gulfstream
+GR51,Grumman G-159,Airliner,Grumman
+GRG1,Grumman G-21 Goose,GA,Grumman
+GRM1,Grumman G-64 Albatross,GA,Grumman
+GURI,Gulfstream G550,Business jet,Gulfstream
+H25A,Hawker Siddeley HS.125,Business jet,Hawker
+H25B,Hawker Siddeley HS.125-700,Business jet,Hawker
+H60,Sikorsky UH-60 Black Hawk,Helicopter,Sikorsky
+HA4T,HA-4T HondaJet,Business jet,Honda
+HC46,HC-46 Packet,Propeller,Douglas
+HDJT,Hawker 400,Business jet,Hawker
+HEMP,Sikorsky S-92,Helicopter,Sikorsky
+HHER,Sikorsky S-92,Helicopter,Sikorsky
+HK36,Percival H.P.137,Aircraft,Handley Page
+HO45,Honda HA-420 HondaJet,Business jet,Honda
+HSAL,IAI 1121 Westwind,Business jet,Israel Aerospace
+IL18,Ilyushin Il-18,Propeller,Ilyushin
+IL62,Ilyushin Il-62,Jet,Ilyushin
+IL76,Ilyushin Il-76,Transport,Ilyushin
+IL86,Ilyushin Il-86,Jet,Ilyushin
+IL96,Ilyushin Il-96,Jet,Ilyushin
+J41,BAe Jetstream 41,Regional,British Aerospace
+JE2,De Havilland DHC-8,Regional,De Havilland Canada
+JS41,BAe Jetstream 41,Regional,British Aerospace
+KC10,McDonnell Douglas KC-10 Extender,Transport,McDonnell Douglas
+KC35,Boeing KC-135 Stratotanker,Transport,Boeing
+L188,Lockheed L-188 Electra,Propeller,Lockheed
+L19,O-1 Bird Dog,GA,Cessna
+L29,Delfin L-29,Jet,Aero
+L39,Albatros L-39,Jet,Aero
+L410,Let L-410 Turbolet,Regional,Let
+L5,L-5 Sentinel,GA,Sikorsky
+LJ45,Learjet 45,Business jet,Bombardier
+LJ60,Learjet 60,Business jet,Bombardier
+LOCK,Lockheed L-1049,Propeller,Lockheed
+LR23,Learjet 23,Business jet,Bombardier
+LR24,Learjet 24,Business jet,Bombardier
+LR25,Learjet 25,Business jet,Bombardier
+LR28,Learjet 28,Business jet,Bombardier
+LR31,Learjet 31,Business jet,Bombardier
+LR35,Learjet 35,Business jet,Bombardier
+LR36,Learjet 36,Business jet,Bombardier
+LR40,Learjet 40,Business jet,Bombardier
+LR45,Learjet 45,Business jet,Bombardier
+LR55,Learjet 55,Business jet,Bombardier
+LR60,Learjet 60,Business jet,Bombardier
+LR70,Learjet 70,Business jet,Bombardier
+LR75,Learjet 75,Business jet,Bombardier
+MD11,McDonnell Douglas MD-11,Jet,McDonnell Douglas
+MD80,McDonnell Douglas MD-80,Jet,McDonnell Douglas
+MD81,McDonnell Douglas MD-81,Jet,McDonnell Douglas
+MD82,McDonnell Douglas MD-82,Jet,McDonnell Douglas
+MD83,McDonnell Douglas MD-83,Jet,McDonnell Douglas
+MD87,McDonnell Douglas MD-87,Jet,McDonnell Douglas
+MD88,McDonnell Douglas MD-88,Jet,McDonnell Douglas
+MD90,McDonnell Douglas MD-90,Jet,McDonnell Douglas
+ME08,Medieval Times Falcon,GA,Cessna
+MG19,Mikoyan MiG-19,Jet,Mikoyan
+MG21,Mikoyan MiG-21,Jet,Mikoyan
+MG23,Mikoyan MiG-23,Jet,Mikoyan
+MG25,Mikoyan MiG-25,Jet,Mikoyan
+MG29,Mikoyan MiG-29,Jet,Mikoyan
+MG31,Mikoyan MiG-31,Jet,Mikoyan
+MH08,Mitsubishi A6M Zero,Propeller,Mitsubishi
+MU2,Mitsubishi MU-2,GA,Mitsubishi
+N262,Aerospatiale SN.626,Regional,Nord
+N320,Aerospatiale N.320,Propeller,Nord
+N72,Nord 72,Propeller,Nord
+NAT,Nord 262,Regional,Aerospatiale
+NOMA,Norman BN-2 Islander,GA,Britten-Norman
+P030,Pilatus PC-30,GA,Pilatus
+P46T,Piper PA-46 T & P Malibu,GA,Piper
+P8A6,Boeing P-8 Poseidon,Airliner,Boeing
+PA23,Piper PA-23 Apache,GA,Piper
+PA28,Piper PA-28 Cherokee,GA,Piper
+PA31,Piper PA-31 Navajo,GA,Piper
+PA46,Piper PA-46 Malibu,GA,Piper
+PC12,Pilatus PC-12,GA,Pilatus
+PC21,Pilatus PC-21,Jet,Pilatus
+PC6T,Pilatus PC-6 Turbo Porter,Utility,Pilatus
+PC7,Pilatus PC-7,Jet,Pilatus
+PCAX,Pilatus PC-24,Business jet,Pilatus
+PDML,Short SC.7 Skyvan,GA,Short
+PEN2,Short SC.7 Skyvan,GA,Short
+PHLC,Short SC.7 Skyvan,GA,Short
+PIL3,Pilatus PC-3,GA,Pilatus
+PIL6,Pilatus PC-6 Porter,GA,Pilatus
+PIO,Pilatus PC-6 Porter,GA,Pilatus
+PL6T,De Havilland DHC-6 Twin Otter,Utility,De Havilland Canada
+Q115,Britten-Norman BN-2 Islander,GA,Britten-Norman
+Q200,DHC-8-200,Regional,De Havilland Canada
+R4D,Douglas R4D Skytrain,Propeller,Douglas
+RA12,BAe Jetstream 12,GA,British Aerospace
+RJ1H,BAe RJ100,Airliner,British Aerospace
+RJ70,BAe RJ70,Airliner,British Aerospace
+RJ85,BAe RJ85,Airliner,British Aerospace
+S02S,Sikorsky S-92,Helicopter,Sikorsky
+S200,Sud Aviation Caravelle,Jet,Sud Aviation
+S58T,Sikorsky S-58T,Helicopter,Sikorsky
+S61,Sikorsky S-61,Helicopter,Sikorsky
+S64,Sikorsky S-64 Skycrane,Helicopter,Sikorsky
+S76,Sikorsky S-76,Helicopter,Sikorsky
+S92,Sikorsky S-92,Helicopter,Sikorsky
+SB01,Saab 90 Scandia,Propeller,Saab
+SB20,Saab 340,Regional,Saab
+SB34,Saab 2000,Regional,Saab
+SC7,Short SC.7 Skyvan,GA,Short
+SE21,Sud Aviation SE.210 Caravelle,Jet,Sud Aviation
+SG26,Sirkorsky S-92,Helicopter,Sikorsky
+SH33,Shorts 330,Regional,Short
+SH36,Shorts 360,Regional,Short
+SK75,Sikorsky S-75,Helicopter,Sikorsky
+SONX,Southern Wind,GA,Southern Wind
+SP2P,Sud Aviation SE.210 Caravelle,Jet,Sud Aviation
+SU95,Sukhoi Superjet 100,Airliner,Sukhoi
+SVNH,Sikorsky S-92,Helicopter,Sikorsky
+TBM7,Daher TBM 700,GA,Daher
+TBM8,Daher TBM 850,GA,Daher
+TE60,Partenavia P.68,GA,Partenavia
+TOR,Torre,GA,De Havilland
+TR40,Robin DR-400,GA,Robin
+TS20,Socata TB-20 Trinidad,GA,Socata
+TU12,Antonov An-12,Transport,Antonov
+TU124,Antonov An-24,Transport,Antonov
+TU14,Antonov An-14,Aircraft,Antonov
+TU20,Antonov An-20,Transport,Antonov
+TU32,Antonov An-32,Transport,Antonov
+TU54,Antonov An-54,Transport,Antonov
+TU72,Antonov An-72,Transport,Antonov
+TU74,Antonov An-74,Transport,Antonov
+TU95,Antonov An-95,Transport,Antonov
+V22,Quad City Challenger,GA,Quad City
+VC10,Vickers VC10,Jet,Vickers
+VC25,Boeing VC-25 Air Force One,Jet,Boeing
+VULC,Vickers Vulcan,GA,Vickers
+W54,WACO,GA,Waco
+WACO,WACO UPF-7,GA,Waco
+WC11,Douglas C-118,Transport,Douglas
+WILB,Willys MB,GA,Willys
+X1,X-1,Experimental,Bell
+XP58,P-38 Lightning,Propeller,Lockheed
+Y5,Douglas AD Skyraider,Propeller,Douglas
+YAK12,Yakovlev Yak-12,GA,Yakovlev
+YAK18,Yakovlev Yak-18,GA,Yakovlev
+YK52,Yakovlev Yak-52,GA,Yakovlev
+YK58,Yakovlev Yak-58,GA,Yakovlev
+Z28,Chevrolet Corvette,GA,Chevrolet
+Z37,Z-37 Agrokat,Agricultural,Zlín
+Z50,Zlin Z-50,GA,Zlín

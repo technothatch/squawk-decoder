@@ -1,0 +1,892 @@
+{
+  "squawks": [
+    {
+      "code": "7500",
+      "name": "Hijack / unlawful interference",
+      "kind": "emergency",
+      "note": "ICAO standard. Aircraft interception or hijacking in progress."
+    },
+    {
+      "code": "7600",
+      "name": "Radio failure",
+      "kind": "emergency",
+      "note": "ICAO standard. Loss of radio communication; lit 'NORDO'."
+    },
+    {
+      "code": "7700",
+      "name": "General emergency",
+      "kind": "emergency",
+      "note": "ICAO standard. Any emergency: failure, medical, fuel, security."
+    },
+    {
+      "code": "7777",
+      "name": "Military intercept (US)",
+      "name_alt": "Intercept",
+      "kind": "military",
+      "note": "US ADS-B Interceptor code, non-ICAO. Also used by some armed forces training."
+    },
+    {
+      "code": "7000",
+      "name": "VFR flight (Europe)",
+      "kind": "standard",
+      "note": "ICAO standard squawk for VFR traffic in European airspace."
+    },
+    {
+      "code": "7002",
+      "name": "ADSC/ADS-B squitter",
+      "kind": "standard",
+      "note": "Assigned for certain automatic dependent surveillance operations."
+    },
+    {
+      "code": "7003",
+      "name": "TIS-B / surveilled",
+      "kind": "standard",
+      "note": "Used by some TIS-B republishers."
+    },
+    {
+      "code": "7004",
+      "name": "Automatic frequency transmit",
+      "kind": "standard",
+      "note": "Aircraft transmitting on 8.33 kHz spacing validation."
+    },
+    {
+      "code": "7005",
+      "name": "FPL-no-call-sign",
+      "kind": "standard",
+      "note": "No callsign in flight plan; air traffic control may request one."
+    },
+    {
+      "code": "7006",
+      "name": "ADSC other",
+      "kind": "standard",
+      "note": "Automatic dependent surveillance - contract, other purposes."
+    },
+    {
+      "code": "7007",
+      "name": "ADSC flight plan change",
+      "kind": "standard",
+      "note": "Automatic dependent surveillance - contract, flight plan change."
+    },
+    {
+      "code": "7010",
+      "name": "ADSC contingent",
+      "kind": "standard",
+      "note": "Contingency squawk (ICAO Doc 4444)."
+    },
+    {
+      "code": "7015",
+      "name": "Downed aircraft",
+      "kind": "standard",
+      "note": "Reserved for downed aircraft alerting."
+    },
+    {
+      "code": "7016",
+      "name": "Air-to-ground radio test",
+      "kind": "standard",
+      "note": "Air-to-ground communication or radio test."
+    },
+    {
+      "code": "7017",
+      "name": "ADSC flight ID",
+      "kind": "standard",
+      "note": "Flight identification update."
+    },
+    {
+      "code": "7020",
+      "name": "Alerting (non-urgent)",
+      "kind": "standard",
+      "note": "Air traffic services alerting service."
+    },
+    {
+      "code": "7021",
+      "name": "Special current surveillance",
+      "kind": "standard",
+      "note": "Special requirements surveillance."
+    },
+    {
+      "code": "7022",
+      "name": "Flight discrepancy",
+      "kind": "standard",
+      "note": "Discrepancy between filed and actual data."
+    },
+    {
+      "code": "7023",
+      "name": "ADSC alert",
+      "kind": "standard",
+      "note": "ADS-C alert condition."
+    },
+    {
+      "code": "7024",
+      "name": "Aircraft emergency",
+      "kind": "standard",
+      "note": "Aircraft reporting an emergency via ADS-C."
+    },
+    {
+      "code": "7026",
+      "name": "Detained/deferred",
+      "kind": "standard",
+      "note": "Aircraft detained or deferred for safety."
+    },
+    {
+      "code": "7027",
+      "name": "Runway incursion",
+      "kind": "standard",
+      "note": "Surface safety / runway incursion detection."
+    },
+    {
+      "code": "7030",
+      "name": "International military",
+      "kind": "military",
+      "note": "Used for international military operations (ICAO)."
+    },
+    {
+      "code": "7031",
+      "name": "ATC Boresight/ADSC",
+      "kind": "standard",
+      "note": "ATC surveillance validation."
+    },
+    {
+      "code": "7032",
+      "name": "ADSC other purposes",
+      "kind": "standard",
+      "note": "ADS-C, other agreed purposes."
+    },
+    {
+      "code": "7033",
+      "name": "ADSC alarm",
+      "kind": "standard",
+      "note": "ADS-C alarm message in progress."
+    },
+    {
+      "code": "7034",
+      "name": "ADSC emergency phase",
+      "kind": "standard",
+      "note": "ADS-C downlink emergency phase."
+    },
+    {
+      "code": "7035",
+      "name": "ADSC other emergencies",
+      "kind": "standard",
+      "note": "ADS-C downlink, other emergency."
+    },
+    {
+      "code": "7036",
+      "name": "Flight crew emergency",
+      "kind": "standard",
+      "note": "Flight crew initiated emergency."
+    },
+    {
+      "code": "7037",
+      "name": "ATS emergency",
+      "kind": "standard",
+      "note": "Air traffic service initiated emergency."
+    },
+    {
+      "code": "7040",
+      "name": "Test (ICAO reserve)",
+      "kind": "standard",
+      "note": "Reserved range 7040-7074, assigned regionally."
+    },
+    {
+      "code": "7075",
+      "name": "Ground test",
+      "kind": "standard",
+      "note": "End of the 7000-7075 reserved block."
+    },
+    {
+      "code": "1000",
+      "name": "Standard IFR (no assignment)",
+      "kind": "standard",
+      "note": "Aircraft not assigned a specific code; also used for automatic initial contact."
+    },
+    {
+      "code": "1200",
+      "name": "VFR (North America)",
+      "kind": "standard",
+      "note": "Visual flight rules, USA/Canada. Also 1201-1277 variants on request."
+    },
+    {
+      "code": "1201",
+      "name": "VFR (US Class E)",
+      "kind": "standard",
+      "note": "VFR on designated discrete assignment."
+    },
+    {
+      "code": "1202",
+      "name": "VFR (US Class E, discrete)",
+      "kind": "standard",
+      "note": "VFR discrete assignment."
+    },
+    {
+      "code": "1203",
+      "name": "VFR discrete",
+      "kind": "standard",
+      "note": "VFR discrete assignment."
+    },
+    {
+      "code": "1204",
+      "name": "VFR discrete",
+      "kind": "standard",
+      "note": "VFR discrete assignment."
+    },
+    {
+      "code": "1205",
+      "name": "VFR discrete",
+      "kind": "standard",
+      "note": "VFR discrete assignment."
+    },
+    {
+      "code": "1206",
+      "name": "VFR discrete",
+      "kind": "standard",
+      "note": "VFR discrete assignment."
+    },
+    {
+      "code": "1207",
+      "name": "VFR discrete",
+      "kind": "standard",
+      "note": "VFR discrete assignment."
+    },
+    {
+      "code": "1210",
+      "name": "Military VHF",
+      "kind": "military",
+      "note": "US military VHF VFR default."
+    },
+    {
+      "code": "1211",
+      "name": "Canadian VFR",
+      "kind": "standard",
+      "note": "VFR in Canadian domestic airspace."
+    },
+    {
+      "code": "1212",
+      "name": "Canadian VFR (transitional)",
+      "kind": "standard",
+      "note": "VFR transitional airspace in Canada."
+    },
+    {
+      "code": "1213",
+      "name": "ICAO international",
+      "kind": "standard",
+      "note": "International flight initial contact."
+    },
+    {
+      "code": "1214",
+      "name": "ICAO international VFR",
+      "kind": "standard",
+      "note": "International VFR."
+    },
+    {
+      "code": "1215",
+      "name": "Search and rescue",
+      "kind": "emergency",
+      "note": "International search and rescue."
+    },
+    {
+      "code": "1216",
+      "name": "ATC interphone",
+      "kind": "standard",
+      "note": "Air-ground interphone operations."
+    },
+    {
+      "code": "1217",
+      "name": "Military ops",
+      "kind": "military",
+      "note": "US military operations assignment."
+    },
+    {
+      "code": "1220",
+      "name": "State military",
+      "kind": "military",
+      "note": "State aircraft / military."
+    },
+    {
+      "code": "1221",
+      "name": "US Customs",
+      "kind": "government",
+      "note": "US Customs and Border Protection."
+    },
+    {
+      "code": "1222",
+      "name": "US Coast Guard",
+      "kind": "government",
+      "note": "US Coast Guard."
+    },
+    {
+      "code": "1223",
+      "name": "US Customs (air)",
+      "kind": "government",
+      "note": "US Customs airborne operations."
+    },
+    {
+      "code": "1224",
+      "name": "Law enforcement",
+      "kind": "government",
+      "note": "State/local law enforcement aviation."
+    },
+    {
+      "code": "1225",
+      "name": "Powerline patrol",
+      "kind": "standard",
+      "note": "Aerial survey and utility patrol."
+    },
+    {
+      "code": "1226",
+      "name": "Aerial firefighting",
+      "kind": "standard",
+      "note": "Fire fighting / aerial firefighting."
+    },
+    {
+      "code": "1227",
+      "name": "US Customs - other",
+      "kind": "government",
+      "note": "US Customs related operations."
+    },
+    {
+      "code": "1231",
+      "name": "UK VFR",
+      "kind": "standard",
+      "note": "UK visual flight rules default."
+    },
+    {
+      "code": "1233",
+      "name": "Rescue coordination",
+      "kind": "emergency",
+      "note": "International SAR coordination."
+    },
+    {
+      "code": "1234",
+      "name": "Training (common)",
+      "kind": "standard",
+      "note": "Frequently assigned for local training flights."
+    },
+    {
+      "code": "1250",
+      "name": "US Army",
+      "kind": "military",
+      "note": "US Army aviation."
+    },
+    {
+      "code": "1251",
+      "name": "US Navy",
+      "kind": "military",
+      "note": "US Navy aviation."
+    },
+    {
+      "code": "1252",
+      "name": "US Marine Corps",
+      "kind": "military",
+      "note": "USMC aviation."
+    },
+    {
+      "code": "1253",
+      "name": "US Air Force",
+      "kind": "military",
+      "note": "USAF aviation."
+    },
+    {
+      "code": "1254",
+      "name": "USAF (VFR)",
+      "kind": "military",
+      "note": "US Air Force VFR assignment."
+    },
+    {
+      "code": "1255",
+      "name": "USAF (IFR)",
+      "kind": "military",
+      "note": "US Air Force IFR assignment."
+    },
+    {
+      "code": "1256",
+      "name": "US Navy (VFR)",
+      "kind": "military",
+      "note": "US Navy VFR assignment."
+    },
+    {
+      "code": "1261",
+      "name": "Air mobility",
+      "kind": "military",
+      "note": "USAF air mobility command."
+    },
+    {
+      "code": "1262",
+      "name": "AWACS",
+      "kind": "military",
+      "note": "Airborne early warning operations."
+    },
+    {
+      "code": "1271",
+      "name": "Air refueling",
+      "kind": "military",
+      "note": "Aerial refueling operations."
+    },
+    {
+      "code": "1272",
+      "name": "Fighter ops",
+      "kind": "military",
+      "note": "Fighter/air superiority training."
+    },
+    {
+      "code": "1273",
+      "name": "Bomber ops",
+      "kind": "military",
+      "note": "Strategic bomber operations."
+    },
+    {
+      "code": "1274",
+      "name": "Fighter VFR",
+      "kind": "military",
+      "note": "Fighter VFR training."
+    },
+    {
+      "code": "1275",
+      "name": "Special ops",
+      "kind": "military",
+      "note": "Special operations aviation."
+    },
+    {
+      "code": "1276",
+      "name": "Combat SAR",
+      "kind": "military",
+      "note": "Combat search and rescue."
+    },
+    {
+      "code": "1277",
+      "name": "EOD (USAF)",
+      "kind": "military",
+      "note": "Explosive ordnance disposal / special mission."
+    },
+    {
+      "code": "2000",
+      "name": "IFR (Europe default)",
+      "kind": "standard",
+      "note": "ICAO default for IFR flights without assignment; also intercept code in some regions."
+    },
+    {
+      "code": "2001",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2002",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2003",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2004",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2005",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2006",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2007",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2010",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2011",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2012",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2013",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2014",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2015",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2016",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2017",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2020",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2021",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2022",
+      "kind": "military",
+      "name": "Intercept (NATO)",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2023",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2024",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2025",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2026",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2027",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2030",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2031",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2032",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2033",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2034",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2035",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2036",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2037",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "2040",
+      "name": "Intercept (NATO)",
+      "kind": "military",
+      "note": "NATO air policing intercept."
+    },
+    {
+      "code": "3000",
+      "name": "IFR (assigned)",
+      "kind": "standard",
+      "note": "Typical assigned IFR block lower edge; 3000-3777 mostly assigned dynamically."
+    },
+    {
+      "code": "3777",
+      "name": "Intercept (US)",
+      "kind": "military",
+      "note": "US ADSC/Air Defense interceptor code."
+    },
+    {
+      "code": "4000",
+      "name": "IFR (assigned)",
+      "kind": "standard",
+      "note": "Assigned IFR block edge."
+    },
+    {
+      "code": "4400",
+      "name": "Reserved (US)",
+      "kind": "reserved",
+      "note": "US special purpose block."
+    },
+    {
+      "code": "4401",
+      "name": "Reserved (US)",
+      "kind": "reserved",
+      "note": "US special purpose block."
+    },
+    {
+      "code": "4402",
+      "name": "Reserved (US)",
+      "kind": "reserved",
+      "note": "US special purpose block."
+    },
+    {
+      "code": "4403",
+      "name": "Reserved (US)",
+      "kind": "reserved",
+      "note": "US special purpose block."
+    },
+    {
+      "code": "4404",
+      "name": "Reserved (US)",
+      "kind": "reserved",
+      "note": "US special purpose block."
+    },
+    {
+      "code": "4405",
+      "name": "Reserved (US)",
+      "kind": "reserved",
+      "note": "US special purpose block."
+    },
+    {
+      "code": "4406",
+      "name": "Reserved (US)",
+      "kind": "reserved",
+      "note": "US special purpose block."
+    },
+    {
+      "code": "4407",
+      "name": "Reserved (US)",
+      "kind": "reserved",
+      "note": "US special purpose block."
+    },
+    {
+      "code": "4410",
+      "name": "Reserved (US)",
+      "kind": "reserved",
+      "note": "US special purpose block."
+    },
+    {
+      "code": "4411",
+      "name": "Reserved (US)",
+      "kind": "reserved",
+      "note": "US special purpose block."
+    },
+    {
+      "code": "4412",
+      "name": "Reserved (US)",
+      "kind": "reserved",
+      "note": "US special purpose block."
+    },
+    {
+      "code": "4413",
+      "name": "Reserved (US)",
+      "kind": "reserved",
+      "note": "US special purpose block."
+    },
+    {
+      "code": "4414",
+      "name": "Reserved (US)",
+      "kind": "reserved",
+      "note": "US special purpose block."
+    },
+    {
+      "code": "4415",
+      "name": "Reserved (US)",
+      "kind": "reserved",
+      "note": "US special purpose block."
+    },
+    {
+      "code": "4416",
+      "name": "Reserved (US)",
+      "kind": "reserved",
+      "note": "US special purpose block."
+    },
+    {
+      "code": "4417",
+      "name": "Reserved (US)",
+      "kind": "reserved",
+      "note": "US special purpose block."
+    },
+    {
+      "code": "4440",
+      "name": "Reserved (ICAO)",
+      "kind": "reserved",
+      "note": "ICAO reserved range 4400-4475."
+    },
+    {
+      "code": "4475",
+      "name": "Reserved (ICAO)",
+      "kind": "reserved",
+      "note": "End of reserved range."
+    },
+    {
+      "code": "5000",
+      "name": "IFR (assigned)",
+      "kind": "standard",
+      "note": "Assigned IFR block edge."
+    },
+    {
+      "code": "6000",
+      "name": "IFR (assigned)",
+      "kind": "standard",
+      "note": "Assigned IFR block edge."
+    },
+    {
+      "code": "7440",
+      "name": "Reserved",
+      "kind": "reserved",
+      "note": "ICAO reserved block."
+    },
+    {
+      "code": "7450",
+      "name": "Reserved",
+      "kind": "reserved",
+      "note": "ICAO reserved block."
+    },
+    {
+      "code": "7460",
+      "name": "Reserved",
+      "kind": "reserved",
+      "note": "ICAO reserved block."
+    },
+    {
+      "code": "7470",
+      "name": "Reserved",
+      "kind": "reserved",
+      "note": "ICAO reserved block."
+    },
+    {
+      "code": "7471",
+      "name": "Reserved",
+      "kind": "reserved",
+      "note": "ICAO reserved block."
+    },
+    {
+      "code": "7472",
+      "name": "Reserved",
+      "kind": "reserved",
+      "note": "ICAO reserved block."
+    },
+    {
+      "code": "7473",
+      "name": "Reserved",
+      "kind": "reserved",
+      "note": "ICAO reserved block."
+    },
+    {
+      "code": "7474",
+      "name": "Reserved",
+      "kind": "reserved",
+      "note": "ICAO reserved block."
+    },
+    {
+      "code": "7475",
+      "name": "Reserved",
+      "kind": "reserved",
+      "note": "ICAO reserved block."
+    },
+    {
+      "code": "7776",
+      "name": "US intercept",
+      "kind": "military",
+      "note": "US ADS-B interceptor variant."
+    }
+  ],
+  "ranges": [
+    {
+      "from": "7040",
+      "to": "7074",
+      "name": "Reserved for regional assignment",
+      "kind": "reserved"
+    },
+    {
+      "from": "4400",
+      "to": "4475",
+      "name": "ICAO reserved",
+      "kind": "reserved"
+    },
+    {
+      "from": "4500",
+      "to": "4577",
+      "name": "Reserved",
+      "kind": "reserved"
+    },
+    {
+      "from": "4600",
+      "to": "4675",
+      "name": "Reserved",
+      "kind": "reserved"
+    },
+    {
+      "from": "7440",
+      "to": "7475",
+      "name": "Reserved",
+      "kind": "reserved"
+    }
+  ],
+  "military_prefixes": {
+    "note": "All-quad and semi-pattern codes in these blocks are commonly military."
+  }
+}
